@@ -21,3 +21,9 @@ console.log(typeof (isNumber));
 "Rohit"= True, 
 ""= false
 */
+
+let booleanLoggedIn= 100
+
+let CheckType= Boolean(booleanLoggedIn)
+
+console.log(CheckType);
